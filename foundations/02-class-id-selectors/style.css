@@ -1,0 +1,25 @@
+.red-bg {
+    background-color: lightcoral;
+}
+
+.green-bg {
+    background-color: lightgreen;
+}
+
+.fonts {
+    font-family: system-ui, 'DejaVu Sans', sans-serif;
+}
+
+#bluesy {
+    color: blue;
+    font-size: 36px;
+}
+
+#font-big {
+    font-size: 24px;
+}
+
+#font-big-bold {
+    font-size: 24px;
+    font-weight: bold;
+}
