@@ -23,6 +23,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 8px 16px;
 }
 
 input {
@@ -36,6 +37,7 @@ input {
 .header, .footer {
   display: flex;
   justify-content: space-between;
+  padding: 16px;
 }
 
 ul {
@@ -44,4 +46,21 @@ ul {
   margin: 0;
   padding: 0;
   gap: 16px;
+}
+
+a {
+  color: #666;
+  text-decoration: none;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+
+.footer {
+  background: #eee;
 }
